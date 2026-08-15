@@ -1,4 +1,4 @@
-# OOP WRAPPER
+<img width="1246" height="1971" alt="image" src="https://github.com/user-attachments/assets/4658dd72-f937-4d2d-83a5-9c9e5c78ffef" /># OOP WRAPPER
 # 🧩 **OOP-WRAPPER**
 
 ## 🧑‍💼 **Employee Management System**
@@ -171,6 +171,8 @@ Pick an option (1–5) and follow the prompts. Option 5 exits anytime.
 
 
 ## 💻 **Sample Output**
+<img width="1246" height="1971" alt="image" src="https://github.com/user-attachments/assets/7b3f90a2-e62f-418b-b725-a6377ed1910a" />
+
 
 
 
