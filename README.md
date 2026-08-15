@@ -25,7 +25,8 @@ The program converts manual record-keeping into a simple, interactive terminal t
 
 ## 🧭 **Project Structure**
 Here's how the classes and menu flow are organized in this project:
-<img width="1440" height="1260" alt="image" src="https://github.com/user-attachments/assets/c960e7f9-b482-46cd-b56d-180defbac52d" />
+<img width="1440" height="920" alt="image" src="https://github.com/user-attachments/assets/96036a3d-e3e2-43ea-abaf-988b6cb96638" />
+
 
 
 
