@@ -1,4 +1,4 @@
-<img width="1246" height="1971" alt="image" src="https://github.com/user-attachments/assets/4658dd72-f937-4d2d-83a5-9c9e5c78ffef" /># OOP WRAPPER
+ 
 # 🧩 **OOP-WRAPPER**
 
 ## 🧑‍💼 **Employee Management System**
