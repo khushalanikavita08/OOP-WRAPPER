@@ -171,7 +171,7 @@ Pick an option (1–5) and follow the prompts. Option 5 exits anytime.
 
 
 ## 💻 **Sample Output**
-![Uploading image (1).png…]()
+
 
 
 
