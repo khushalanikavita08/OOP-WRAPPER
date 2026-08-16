@@ -215,4 +215,4 @@ Kavita Khushalani 📍India
 ---
 
 
-🐍 Made with Python, for learning and fun.
+🐍 Made with Python, for learning .
