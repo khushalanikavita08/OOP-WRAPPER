@@ -176,7 +176,7 @@ Pick an option (1–5) and follow the prompts. Option 5 exits anytime.
 ## 💻 **Sample Output**
 <img width="1246" height="1971" alt="image" src="https://github.com/user-attachments/assets/7b3f90a2-e62f-418b-b725-a6377ed1910a" />
 # ▶️ video link 
-#[watch_video_here] (https://drive.google.com/file/d/1Qje5_Q88_VkMdObHhzPamAGJQJ074uCo/view?usp=sharing)
+#[watch_video_here](https://drive.google.com/file/d/1Qje5_Q88_VkMdObHhzPamAGJQJ074uCo/view?usp=sharing)
 
 
 
